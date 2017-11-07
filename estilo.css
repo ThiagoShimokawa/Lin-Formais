@@ -1,0 +1,15 @@
+#principal{
+    position: relative;
+    width: 920px;
+    left: 150px;
+}
+
+#corpo{
+    position: relative;
+    //top: 20px;
+    margin: 10px auto;
+    border: 1px solid #999;
+    padding: 25px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 3px 1px #999;
+}
