@@ -73,18 +73,18 @@ function regex($input_str){
         //echo(count($matches_out));
         //print_r($matches_out);
 
-        if(count($matches_out) == 4){
+        if(count($matches_out) == 4)
             return new Log($matches_out[1], $matches_out[2], $matches_out[3]);
-        }
-        else if(count($matches_out) == 7){
+        
+        else if(count($matches_out) == 7)
             return new Log($matches_out[4], $matches_out[5], $matches_out[6]);
-        }
-        else if(count($matches_out) == 10){
+        
+        else if(count($matches_out) == 10)
             return new Log($matches_out[7], $matches_out[8], $matches_out[9]);
-        }
-        else if(count($matches_out) == 13){
+        
+        else if(count($matches_out) == 13)
             return new Log($matches_out[10], $matches_out[11], $matches_out[12]);
-        }
+        
     }
 }
 
