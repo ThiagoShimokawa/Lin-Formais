@@ -1,0 +1,40 @@
+Oi, eu sou o Jackson. Gostaria de saber sobre o mouse.
+Eu sou o Marcos e queria saber sobre o geladeira.
+Sou o Paulo e queria comprar sobre o monitor.
+Raquel saber mouse.
+Sou o Jackson e queria reclamar sobre o teclado.
+Junior reclamar mouse.
+Eu sou o Jackson e queria saber sobre o geladeira.
+Sou o Paulo e queria comprar sobre o monitor.
+Junior saber mouse.
+Eu sou o Marcos e queria saber sobre o microondas.
+Sou o Junior e queria comprar sobre o teclado.
+Jackson saber mouse.
+Eu sou o Paulo e queria reclamar sobre o teclado.
+Sou o Marcos e queria comprar sobre o celular.
+Junior saber mouse.
+Eu sou o Paulo e queria reclamar sobre o celular.
+Sou o Raquel e queria comprar sobre o microondas.
+Jackson reclamar mouse.
+Eu sou o Raquel e queria saber sobre o geladeira.
+Sou o Marcos e queria comprar sobre o microondas.
+Raquel saber mouse.
+Eu sou o Paulo e queria reclamar sobre o celular.
+Sou o Raquel e queria comprar sobre o notebook.
+Jackson reclamar mouse.
+Eu sou o Raquel e queria saber sobre o notebook.
+Sou o Marcos e queria comprar sobre o panela.
+Eu sou o Jackson e queria saber sobre o geladeira.
+Sou o Paulo e queria comprar sobre o monitor.
+Junior saber mouse.
+Eu sou o Marcos e queria saber sobre o microondas.
+Sou o Junior e queria comprar sobre o teclado.
+Jackson saber mouse.
+Eu sou o Paulo e queria reclamar sobre o telefone.
+Eu sou o Jackson e queria saber sobre o telefone.
+Sou o Paulo e queria comprar sobre o monitor.
+Junior saber mouse.
+Eu sou o Marcos e queria saber sobre o telefone.
+Sou o Junior e queria comprar sobre o teclado.
+Jackson saber mouse.
+Eu sou o Paulo e queria reclamar sobre o teclado.
